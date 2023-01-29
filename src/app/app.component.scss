@@ -1,0 +1,15 @@
+.main{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+.main,.toolbar{
+    background-color: black;
+    color:white;
+}
+a{
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
+}

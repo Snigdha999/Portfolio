@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+// * {
+//     font-family: sans-serif !important;
+//   }
+
+.spacer {
+    flex: 1 1 auto;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.primary-btn{
+    border:1px solid #ff9800;
+    background-color: #ff9800;
+    color:white;
+    border-radius:50px;
+    padding:10px 40px;
+}
+.yellow{
+    color:#ff9800
+}

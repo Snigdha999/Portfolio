@@ -1,0 +1,24 @@
+.img{
+    width:380px;
+    border-radius:12px;
+}
+.name{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+    font-weight: 600;
+    text-align: center;
+}
+.container-fluid,.information{
+    background-color: #222;
+    color:white !important;
+}
+.header{
+    font-size:18px;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+    padding-bottom: 15px;
+}
+.content{
+    margin-top:30px;
+    margin-bottom:50px;
+}
